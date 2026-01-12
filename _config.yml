@@ -1,19 +1,19 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Xiwen Yan (Echo)
+position: Industrial Design Undergraduate
+affiliation: Shanghai Maritime University
+email: yanx1wen456@163.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: industrial design, product design, portfolio, Shanghai Maritime University
+description: Xiwen Yan (Echo) is an industrial design student focused on product design, 3D modeling, and visual communication.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/portfolio.pdf
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
