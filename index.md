@@ -30,6 +30,6 @@ I am Xiwen Yan (Echo), an Industrial Design undergraduate at Shanghai Maritime U
 
 ## Internship Experiences
 
-**Beijing Gehua Design Co., Ltd.** — Design Intern | 03/2025-06/2025 | Beijing
-**COSCO Seafarer Management Co., Ltd.** — Visual Design Intern | 11/2024-12/2024 | Shanghai
+**Beijing Gehua Design Co., Ltd.** — Design Intern  03/2025-06/2025   Beijing
+**COSCO Seafarer Management Co., Ltd.** — Visual Design Intern   11/2024-12/2024   Shanghai
 
