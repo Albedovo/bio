@@ -16,25 +16,17 @@ I am Xiwen Yan (Echo), an Industrial Design undergraduate at Shanghai Maritime U
   - Major: Industrial Design
   - 09/2022 - 06/2026
 
-## Skills
-
-- **Language Skills:** English (Proficient) | Chinese (Native)
-- **3D & Rendering:** Rhino | Blender | KeyShot | D5
-- **Design & Prototyping:** Photoshop | Illustrator | Figma | Fabrie
-- **Digital Drawing:** Procreate | SAI
-- **Tech & Tools:** Arduino | Python | Microsoft Office
-
 ## Awards
 
-- Gold Award | 2025 — FA International Frontier Innovation Design Competition (China Division)
-- Silver Award | 2025 — Global Visio International Art & Design Award
-- Silver Award | 5th edition — ICAD International Contemporary Youth Art Design Competition
-- Bronze Award | 2025 — Asia TRANS-A Design Innovation Award
-- Bronze Award | 2024 — UK International Art & Design Competition (Autumn)
+- Gold Award 2025 — FA International Frontier Innovation Design Competition (China Division)
+- Silver Award 2025 — Global Visio International Art & Design Award
+- Silver Award 5th edition — ICAD International Contemporary Youth Art Design Competition
+- Bronze Award 2025 — Asia TRANS-A Design Innovation Award
+- Bronze Award 2024 — UK International Art & Design Competition (Autumn)
 - National 3rd Prize — 3C Contest, China Creative Challenges Contest
 - 2nd Prize — Hui-Chuang Youth Shanghai University Cultural & Creative Exhibition
 - 3rd Class Prize (x3) — Cruise Yacht Innovation Competition
-- SMU Scholarship | 2024 | 2023 — Scholarship for two consecutive years
+- SMU Scholarship 2024 2023 — Scholarship for two consecutive years
 
 ## Internship Experiences
 
