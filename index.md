@@ -6,9 +6,6 @@ layout: homepage
 
 I am Xiwen Yan (Echo), an Industrial Design undergraduate at Shanghai Maritime University with experience in product design, 3D modeling, and visual communication.
 
-## Portfolio
-
-- [Portfolio PDF](assets/files/portfolio.pdf)
 
 ## Education
 
