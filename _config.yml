@@ -1,14 +1,15 @@
 # Basic Information 
 title: Xiwen Yan (Echo)
-position: Undergraduate
-affiliation: Industrial Design, Shanghai Maritime University
-email: yanx1wen456@163.com
+position: MFA in Interaction Design
+affiliation: School of Visual Arts, New York
+location: New Jersey
+email: albeedovo@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: industrial design, product design, portfolio, Shanghai Maritime University, Xiwen Yan
-description: Xiwen Yan (Echo) is an industrial design student focused on product design, 3D modeling, and visual communication.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: interaction design, UX design, product design, portfolio, School of Visual Arts, Xiwen Yan
+description: Xiwen Yan (Echo) is a New Jersey-based designer pursuing an MFA in Interaction Design at the School of Visual Arts in New York. Explore experience in UX, exhibitions, and product design.
+canonical: https://bio.xiwenyan.top/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -16,7 +17,7 @@ canonical: https://minimal-light-theme.yliu.me/
 cv_link: assets/files/resume.pdf
 portfolio_link: assets/files/portfolio.pdf
 github_link: https://github.com/Albedovo
-# linkedin: https://www.linkedin.com/
+linkedin: https://www.linkedin.com/in/xiwen-yan-2774b8438/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 

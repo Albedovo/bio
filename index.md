@@ -4,29 +4,79 @@ layout: homepage
 
 ## About Me
 
-I am Xiwen Yan (Echo), an Industrial Design undergraduate at Shanghai Maritime University with experience in product design, 3D modeling, and visual communication.
+I’m Xiwen Yan (Echo), a designer based in **New Jersey** and pursuing an **MFA in Interaction Design at the School of Visual Arts in New York**. With a background in industrial design, I work across digital interfaces, physical experiences, and visual communication.
 
+My experience spans exhibition visitor journeys, event materials, and a subtitle conversion tool with **1,000+ downloads**. I’m interested in making experiences clear, engaging, and practical to produce.
+
+## Internship Experience
+
+### Beijing Gehua Design Co., Ltd.
+*Design Intern · Beijing · Mar – Jun 2025*
+
+- Independently designed a **task-based visitor journey** for a proposed imperial-cuisine exhibition, linking physical exhibits with ingredient collection, cooking choices, and personalized feedback.
+- **Iterated on existing interface designs** for task guidance, ingredient-card collection, and results screens.
+- Translated **stakeholder requirements** into design revisions, balancing the visitor experience with **budget and production constraints**.
+- Independently **proposed commercialization concepts**, including themed merchandise, food-brand collaborations, and restaurant partnerships.
+
+### COSCO Seafarer Management Co., Ltd.
+*Visual Design Intern · Shanghai · Nov – Dec 2024*
+
+- Designed posters, staff badges, invitations, and **interactive check-in stations** for the “Haiyuji” maritime culture market.
+- Collaborated with a **9-member design team** to maintain visual consistency across event materials using shared assets.
+- Reviewed **commercial-use permissions and cultural sensitivities** when selecting visual assets.
+
+## Selected Projects
+
+### VTT to LRC Converter
+*Product Manager · Dec 2025 – Present*<br>
+[GitHub](https://github.com/saltfish-len/vtt2lrc) · [Live Web App](https://saltfish-len.github.io/vtt2lrc/)
+
+- Led **product design, branding, and launch promotion** for an Android subtitle converter; reached **1,000+ total downloads**.
+- The Android and web versions support local file processing and batch conversion, with progress feedback and actionable error messages.
+
+### Inn-trovert | Inclusive Social Experience
+*Independent UX & Service Design Concept · Jun – Oct 2025*
+
+- Identified barriers to participation in bar-based social activities through **field observations and a survey with 68 valid responses**.
+- Created a **service blueprint, mobile user flows, and a UI kit**, plus physical task cards connecting digital and in-person activities.
+- Tested **paper prototypes with 3 participants** to evaluate invitation timing, recommendations, and task-completion clarity.
 
 ## Education
 
-- **Shanghai Maritime University** — Shanghai, China
-  - Major: Industrial Design
-  - 09/2022 - 06/2026
+### School of Visual Arts
+**MFA in Interaction Design** · New York, NY<br>
+Sep 2026 – Expected 2028
+
+### Shanghai Maritime University
+**Bachelor of Engineering in Industrial Design** · Shanghai, China<br>
+Sep 2022 – Jun 2026
+
+## Skills
+
+- **Design methods:** User research, user flows, wireframing, usability testing
+- **Design & prototyping:** Figma, Photoshop, Illustrator
+- **3D & rendering:** Rhino, Blender, KeyShot, D5
+- **Physical computing & development:** Arduino, vibe coding
+- **Languages:** English (proficient), Chinese (native)
 
 ## Awards
 
-- **Gold Award 2025** — FA International Frontier Innovation Design Competition (China Division)
-- **Silver Award 2025** — Global Visio International Art & Design Award
-- **Silver Award 5th edition** — ICAD International Contemporary Youth Art Design Competition
-- **Bronze Award 2025** — Asia TRANS-A Design Innovation Award
-- **Bronze Award 2024** — UK International Art & Design Competition (Autumn)
-- **National 3rd Prize** — 3C Contest, China Creative Challenges Contest
-- **2nd Prize** — Hui-Chuang Youth Shanghai University Cultural & Creative Exhibition
-- **3rd Class Prize (x3)** — Cruise Yacht Innovation Competition
-- **SMU Scholarship 2024 2023** — Scholarship for two consecutive years
+- **National Third Prize (2025); Shanghai Second Prizes (2024 & 2025)** — China Creative Challenges Contest
+- **Gold & Bronze (2025)** — FA International Frontier Innovation Design Competition (China Division)
+- **Silver & 2 Bronze Awards (2025)** — ICAD International Contemporary Youth Art Design Competition
+- **Silver Award (2025)** — Global Visio International Design
+- **Provincial Silver Award (2025)** — Eastern Creative Star Design (team project)
+- **Second Prize (2024)** — Huichuang Youth, Shanghai Student Creative Works Exhibition (Product Design)
+- **SMU Scholarship (2023 & 2024)** — Shanghai Maritime University
 
-## Internship Experiences
+## Additional Experience
 
-**Beijing Gehua Design Co., Ltd.** — Design Intern  03/2025-06/2025   Beijing
-**COSCO Seafarer Management Co., Ltd.** — Visual Design Intern   11/2024-12/2024   Shanghai
+### RedNote (Xiaohongshu)
+*Content Creator*
 
+Created food and lifestyle content; a single post generated **700K views and 34K likes**.
+
+### “Dachuan” Heritage Preservation
+*Team Leader*
+
+Documented traditional craft steps, created **3D models**, and developed a **website demo** for public engagement.

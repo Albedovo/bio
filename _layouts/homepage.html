@@ -50,11 +50,14 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <span>{{ site.affiliation }}</span>
         <br>
         {% endif %}
+        {% if site.location %}
+        <span>{{ site.location }}</span><br>
+        {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         {% endif %}
 
         <br>
@@ -67,25 +70,25 @@
         {% endif %}
 
         {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" aria-label="Download resume" title="Download resume">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
 
         {% if site.portfolio_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.portfolio_link }}" title="Portfolio">
+        <a style="margin: 0 5px 0 0" href="{{ site.portfolio_link }}" title="Portfolio" aria-label="Portfolio">
           <i class="fas fa-briefcase"></i>
         </a>
         {% endif %}
 
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}" aria-label="GitHub" title="GitHub">
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
 
         {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" aria-label="LinkedIn" title="LinkedIn">
           <i class="fab fa-linkedin"></i>
         </a>
         {% endif %}
