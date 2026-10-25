@@ -84,7 +84,7 @@ Sep 2022 – Jun 2026
 ### RedNote (Xiaohongshu)
 *Content Creator*
 
-Created food and lifestyle content; a single post generated **700K views and 34K likes**.
+Created food and lifestyle content; a single post has reached **750K views and 35K likes**.
 
 ### “Dachuan” Heritage Preservation
 *Team Leader*
