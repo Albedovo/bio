@@ -24,6 +24,7 @@ social:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
