@@ -7,15 +7,29 @@ email: albeedovo@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: interaction design, UX design, product design, portfolio, School of Visual Arts, Xiwen Yan
-description: Xiwen Yan (Echo) is a New Jersey-based designer pursuing an MFA in Interaction Design at the School of Visual Arts in New York. Explore experience in UX, exhibitions, and product design.
+keywords: Xiwen Yan, Echo Yan, interaction design, UX design, service design, product design, portfolio, School of Visual Arts
+description: Xiwen (Echo) Yan is a New Jersey-based designer pursuing an MFA in Interaction Design at the School of Visual Arts in New York. Explore experience in UX, exhibitions, and product design.
 canonical: https://bio.xiwenyan.top/
+url: https://bio.xiwenyan.top
+lang: en
+author: Xiwen Yan
+logo: /assets/img/avatar.png
+social:
+  name: Xiwen Yan
+  links:
+    - https://portfolio.xiwenyan.top/
+    - https://www.linkedin.com/in/xiwen-yan-2774b8438/
+    - https://github.com/Albedovo
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/
 cv_link: assets/files/resume.pdf
-portfolio_link: assets/files/portfolio.pdf
+portfolio_link: https://portfolio.xiwenyan.top/
 github_link: https://github.com/Albedovo
 linkedin: https://www.linkedin.com/in/xiwen-yan-2774b8438/
 # twitter: https://twitter.com/
@@ -38,9 +52,8 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# Google Analytics: add your own GA4 measurement ID here if you want visitor stats.
+# google_analytics_4: G-XXXXXXXXXX
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
@@ -57,3 +70,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+  - _site/
