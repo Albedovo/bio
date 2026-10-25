@@ -101,5 +101,4 @@ Created food and lifestyle content; a single post has reached **750K views and 3
 
 ## Interests
 
-- **Games:** Overwatch, rhythm games and indie games. I play with a designer's ear: how a hit sound lands on the beat, how wide a timing window feels, why one menu feels slow and another instant. Feed the Beat and Serpentine grew out of these notes.
-- **Cooking:** home cook and food creator on RedNote. Cooking is my favourite design brief: real constraints, real users and instant feedback at the table, and sharing recipes taught me how to turn a process into steps people can follow.
+- **Games:** Overwatch, rhythm, puzzle and indie games. I play with a designer's eye: how a hit lands on the beat, how a puzzle teaches its rules without words, why one menu feels slow and another instant. Feed the Beat and Serpentine grew out of these notes.
