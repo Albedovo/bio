@@ -84,9 +84,13 @@ Sep 2022 – Jun 2026
 ### RedNote (Xiaohongshu)
 *Content Creator*
 
-Created food and lifestyle content; a single post generated **700K views and 34K likes**.
+Created food and lifestyle content; a single post has reached **750K views and 35K likes**.
 
 ### “Dachuan” Heritage Preservation
 *Team Leader*
 
 Documented traditional craft steps, created **3D models**, and developed a **website demo** for public engagement.
+
+## Interests
+
+Overwatch, rhythm games and indie games. I pay close attention to feedback, timing and game feel, which carries straight into how I design interactions.
