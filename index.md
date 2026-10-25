@@ -12,6 +12,19 @@ My experience spans exhibition visitor journeys, event materials, and a subtitle
 
 ## Selected Projects
 
+### [Feed the Beat](https://snake.xiwenyan.top/) | Gesture-Controlled Rhythm Game
+*Independent Interaction Design · Oct 2026*<br>
+[Play Online](https://snake.xiwenyan.top/) · [GitHub](https://github.com/Albedovo/RhythmSnake)
+
+- Built a **camera-based call-and-response rhythm game** with Claude: six hand gestures, seven difficulty levels, and on-device MediaPipe hand tracking.
+- After **playtesting**, aligned every note to the beat, added **camera-lag compensation**, a **guided tutorial**, and latency calibration.
+
+### [Serpentine](https://serpentine-4cws.onrender.com/) | Rhythm Snake Game
+*Collaborative Game Design · Oct 2026*<br>
+[Play Online](https://serpentine-4cws.onrender.com/)
+
+- Co-designed **gameplay, art style, and snake attribute settings** with a classmate; built the five-level game with Claude and refined details from **player feedback**.
+
 ### Inn-trovert | Inclusive Social Experience
 *Independent UX & Service Design Concept · Jun – Oct 2025*
 
