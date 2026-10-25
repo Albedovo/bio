@@ -90,3 +90,7 @@ Created food and lifestyle content; a single post has reached **750K views and 3
 *Team Leader*
 
 Documented traditional craft steps, created **3D models**, and developed a **website demo** for public engagement.
+
+## Interests
+
+Overwatch, rhythm games and indie games. I pay close attention to feedback, timing and game feel, which carries straight into how I design interactions.
